@@ -5,12 +5,14 @@ Detection Framework for Autonomous Vehicles" submitted to the IEEE Transactions 
 
 AV-GPS-Dataset captures 44 features of GPS-guided navigation of Autonomous Vehicles with and without imposing a GPS spoofing attack. The feature descriptions of the dataset are detailed below:
 
-\subsection{Roll, Pitch} Rotation around the front-to-back axis of the vehicle is called \textit{Roll} and rotation around the side-to-side axis of the vehicle is called \textit{Pitch}. Roll and pitch are measured in degrees and the values range from -180$^{\circ}$ to 180$^{\circ}$. 
+## Roll, Pitch 
+Rotation around the front-to-back axis of the vehicle is called *Roll* and rotation around the side-to-side axis of the vehicle is called *Pitch*. *Roll* and *Pitch* are measured in degrees and the values range from -180° to 180°. 
 
-\subsection{Heading}
-The angular direction of the compass towards which the head of the vehicle is pointed is referred to as \textit{Heading}. Heading is measured in degrees and the heading angle ranges from 0$^{\circ}$ to 360$^{\circ}$.
+## Heading
+The angular direction of the compass towards which the head of the vehicle is pointed is referred to as *Heading*. *Heading* is measured in degrees and the heading angle ranges from 0° to 360°.
 
-\subsection{Yaw, Yaw Rate} The rotation around the vertical axis of the vehicle relative to North is referred to as \textit{Yaw}. Yaw is measured in degree and ranges from -180$^{\circ}$ to 180$^{\circ}$. \textit{Yaw Rate} is the rate of change of Yaw angle with time and is measured in degrees/second
+## Yaw, Yaw Rate 
+The rotation around the vertical axis of the vehicle relative to North is referred to as *Yaw*. Yaw is measured in degree and ranges from -180° to 180°. *Yaw Rate* is the rate of change of Yaw angle with time and is measured in degrees/second.
 
 \subsection{Velocity} \textit{Velocity} refers to the actual speed of the vehicle on the ground. It is measured in meters/second.
 
