@@ -3,10 +3,9 @@
 The AV-GPS-Dataset is an extensive collection of GPS navigation data collected by the Autonomic Computing Lab GPS-guided Rover (ACL-Rover). This Autonomous Vehicle Testbed was designed and developed by myself at the University of Arizona, AZ, USA. The dataset is associated with the journal titled "GPS-IDS: An Anomaly-based GPS Spoofing Attack
 Detection Framework for Autonomous Vehicles" submitted to the IEEE Transactions on Dependable and Secure Computing.
 
-<img src="[https://github.com/mehrab-abrar/AV-GPS-Dataset/blob/main/ACL-Rover%20AVT.JPG]" width="300" height="200">
-
-
 AV-GPS-Dataset captures 44 features of GPS-guided navigation of Autonomous Vehicles with and without imposing a GPS spoofing attack. The feature descriptions of the dataset are detailed below:
+
+<img src="https://github.com/mehrab-abrar/AV-GPS-Dataset/blob/main/ACL-Rover%20AVT.JPG" width="220" height="300">
 
 ## Roll, Pitch 
 Rotation around the front-to-back axis of the vehicle is called *Roll* and rotation around the side-to-side axis of the vehicle is called *Pitch*. *Roll* and *Pitch* are measured in degrees and the values range from -180° to 180°. 
