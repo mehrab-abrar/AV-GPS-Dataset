@@ -1,7 +1,7 @@
 # AV-GPS-Dataset (Autonomous Vehicle Global Positioning System Dataset)
 
-The AV-GPS-Dataset is an extensive collection of GPS navigation data collected by the Autonomic Computing Lab GPS-guided Rover (ACL-Rover). This Autonomous Vehicle Testbed was designed and developed by myself at the University of Arizona, AZ, USA. The dataset is associated with the journal titled "GPS-IDS: An Anomaly-based GPS Spoofing Attack
-Detection Framework for Autonomous Vehicles" submitted to the IEEE Transactions on Dependable and Secure Computing.
+The AV-GPS-Dataset is an extensive collection of GPS navigation data collected by the Autonomic Computing Lab GPS-guided Rover (ACL-Rover). This Autonomous Vehicle Testbed was designed and developed by myself at the University of Arizona, AZ, USA. The dataset is associated with the journal titled **"GPS-IDS: An Anomaly-based GPS Spoofing Attack
+Detection Framework for Autonomous Vehicles"** submitted to the _IEEE Transactions on Dependable and Secure Computing_ and is currently uunder review.
 
 <img src="https://github.com/mehrab-abrar/AV-GPS-Dataset/blob/main/ACL-Rover%20AVT.JPG" width="220" height="300">
 
